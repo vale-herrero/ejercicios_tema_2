@@ -66,6 +66,8 @@ Un día que el viento soplaba con fuerza...
 - Lo que se mueve es el viento -respondió otro monje.
 - Ni las banderolas ni el viento, lo que se mueve son vuestras mentes -dijo el maestro.
 Lo único prohibido es modificar directamente el texto.
+
+
 Ejercicio 3
 Crea una función modificar() que a partir de una lista de números realice las siguientes tareas sin modificar la original:
 Borrar los elementos duplicados.
